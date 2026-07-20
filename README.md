@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi bro selamat datang di github saya  👋
 
 <!--
 **tatabiinhairudinambo/tatabiinhairudinambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
