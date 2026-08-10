@@ -1,16 +1,46 @@
-## Hi bro selamat datang di github saya  👋
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│              👋 Hi, I'm Tatabiin                    │
+│                                                      │
+│       Full Stack Developer • Software Engineer       │
+│                                                      │
+│  Building web apps, APIs, systems & digital products │
+│                                                      │
+│   
+│                                                      │
+└──────────────────────────────────────────────────────┘
 
-<!--
-**tatabiinhairudinambo/tatabiinhairudinambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+──────────────────────────────────────────────────────
+I'm a Full Stack Developer focused on building
+modern web applications, APIs, and business systems.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+──────────────────────────────────────────────────────
+Frontend     Backend       Database       Tools
+React        Laravel       MySQL          Git
+Next.js      Node.js       PostgreSQL     Docker
+Tailwind     PHP           Supabase       Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Featured Projects
+──────────────────────────────────────────────────────
+
+┌──────────────────┐  ┌──────────────────┐
+│ Tagepe POS       │  │ SpaceCode        │
+│ POS / UMKM       │  │ Developer Comm.  │
+│ Laravel + MySQL │  │ React + Supabase │
+└──────────────────┘  └──────────────────┘
+
+📊 GitHub Statistics
+──────────────────────────────────────────────────────
+
+   Contributions      Repositories       Followers
+       1,234               25                120
+
+🎯 Currently Learning
+──────────────────────────────────────────────────────
+React • Flutter • Laravel • AI • Cloud
+
+📫 Let's Connect
+──────────────────────────────────────────────────────
+Portfolio • LinkedIn • Instagram • Email
