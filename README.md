@@ -1,48 +1,27 @@
 <div align="center">
 
-<img src="./hero.png" width="280" alt="Tatabiin Hairudin Ambo">
-
 # Tatabiin Hairudin Ambo
 
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Web+Applications;Building+Business+Systems;Creating+APIs+%26+Digital+Products;Building+AI+Applications;Turning+Ideas+Into+Working+Software" alt="Typing SVG">
+Building web applications, business systems, APIs & digital products.
+
+<img src="./assets/hero.png" width="260" alt="Tatabiin Hairudin Ambo">
 
 <br>
 
-<p>
-  <a href="https://github.com/tatabiinhairudinambo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://toposdigital.com">
-    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tatabiinhairudinambo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toposdigital.com)
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a full stack developer who enjoys building practical
-software and turning ideas into real products.
+I'm **Tatabiin Hairudin Ambo**, a Full Stack Developer focused on building practical digital products.
 
-My focus is on building web applications, business systems,
-APIs, SaaS products, AI applications, and digital products.
-
-I learn by building real projects, experimenting with new
-technologies, and turning ideas into working software.
-
----
-
-## What I Do
+I enjoy turning ideas into real applications — from frontend interfaces and backend systems to APIs and business platforms.
 
 ```text
-▸ Web Application Development
-▸ Full Stack Development
-▸ Business System Development
-▸ API Development
-▸ SaaS Development
-▸ AI Application Development
-▸ Digital Product Development
+Code → Build → Test → Improve → Ship
