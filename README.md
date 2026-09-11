@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="220">
+<img src="./assets/hero.png" width="700" alt="Tatabiin Hairudin Ambo">
 
 # Tatabiin Hairudin Ambo
 
@@ -10,116 +10,64 @@ Building web applications, business systems, APIs & digital products.
 
 <br>
 
-<a href="https://github.com/tatabiinhairudinambo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://toposdigital.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tatabiinhairudinambo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://toposdigital.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm **Tatabiin Hairudin Ambo**, a Full Stack Developer focused on building real-world digital products.
+I'm a Full Stack Developer focused on building useful digital products, web applications, business systems, and APIs.
 
-I build web applications, business systems, APIs, SaaS products, and other digital solutions.
-
-I enjoy turning ideas into working products.
+I enjoy turning ideas into real products and continuously learning new technologies.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🚗 Car Auto Garage
 
-Rental platform for presenting vehicles and managing a modern car rental business experience.
+Rental mobil berbasis web dengan tampilan modern untuk membantu pelanggan melihat armada, harga, dan informasi rental.
 
 <img src="./assets/landingpage.png" width="100%">
-
-<br>
 
 ---
 
 ### 🧾 InvoLoop
 
-A modern invoice platform concept designed to make creating and managing invoices simple and fast.
+Aplikasi invoice modern untuk membuat invoice dengan cepat dan sederhana.
 
-<img src="./assets/ChatGPT%20Image%20Aug%2030%2C%202026%2C%2003_40_12%20PM.png" width="100%">
-
-<br>
+<img src="./assets/ChatGPT Image Aug 30, 2026, 03_40_12 PM.png" width="100%">
 
 ---
 
-### 🛒 Kasir & Stock Management
+### 🛒 Aplikasi Kasir & Stok
 
-Cashier and inventory management application for retail and grocery businesses.
+Sistem kasir dan manajemen stok untuk kebutuhan toko grosir maupun retail.
 
-<img src="./assets/Screenshot%202026-08-21%20063439.png" width="100%">
-
-<br>
+<img src="./assets/Screenshot 2026-08-21 063439.png" width="100%">
 
 ---
 
-### 📱 Application Development
+## 🚀 What I Build
 
-Another look at one of the applications I've built.
-
-<img src="./assets/Screenshot%202026-08-27%20224716.png" width="100%">
-
----
-
-## 🧠 Tech Stack
-
-**Frontend**
-
-`HTML` · `CSS` · `JavaScript` · `React`
-
-**Backend**
-
-`PHP` · `Laravel` · `Node.js`
-
-**Database**
-
-`MySQL` · `Supabase`
-
-**Tools**
-
-`Git` · `GitHub` · `VS Code`
+- Web Applications
+- Business Systems
+- REST APIs
+- SaaS Products
+- E-commerce Systems
+- Management Systems
+- Digital Products
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technologies
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tatabiinhairudinambo&show_icons=true&hide_border=true&theme=transparent">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatabiinhairudinambo&layout=compact&hide_border=true&theme=transparent">
-
-</div>
-
----
-
-## 🔥 Contribution
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tatabiinhairudinambo&hide_border=true&theme=transparent">
-
-</div>
-
----
-
-<div align="center">
-
-### Building. Learning. Shipping.
-
-**Tatabiin Hairudin Ambo**
-
-</div>
+```text
+Frontend     React • JavaScript • HTML • CSS
+Backend      PHP • Laravel • Node.js • Python
+Mobile       React Native • Expo
+Database     MySQL • PostgreSQL • Supabase
+Tools        Git • GitHub • VS Code
