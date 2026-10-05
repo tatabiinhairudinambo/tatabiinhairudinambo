@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/heroo.jpg" width="400" alt="Tatabiin Hairudin Ambo">
+<img src="./assets/hero.png" width="400" alt="Tatabiin Hairudin Ambo">
 
 # Tatabiin Hairudin Ambo
 
