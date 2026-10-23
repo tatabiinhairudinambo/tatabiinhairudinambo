@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="400" alt="Tatabiin Hairudin Ambo">
 
 # Tatabiin Hairudin Ambo
 
