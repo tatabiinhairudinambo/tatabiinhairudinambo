@@ -30,7 +30,7 @@ I enjoy turning ideas into real products and continuously learning new technolog
 
 Rental mobil berbasis web dengan tampilan modern untuk membantu pelanggan melihat armada, harga, dan informasi rental.
 
-<img src="./assets/landingpage.png" width="90%">
+
 
 ---
 
@@ -38,15 +38,12 @@ Rental mobil berbasis web dengan tampilan modern untuk membantu pelanggan meliha
 
 Aplikasi invoice modern untuk membuat invoice dengan cepat dan sederhana.
 
-<img src="./assets/ChatGPT Image Aug 30, 2026, 03_40_12 PM.png" width="90%">
+
 
 ---
 
-### 🛒 Aplikasi Kasir & Stok
 
-Sistem kasir dan manajemen stok untuk kebutuhan toko grosir maupun retail.
 
-<img src="./assets/Screenshot 2026-08-21 063439.png" width="90%">
 
 ---
 
