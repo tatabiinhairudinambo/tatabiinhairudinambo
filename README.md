@@ -55,6 +55,11 @@
   <img src="https://ghchart.rshah.org/40c463/tatabiinhairudinambo" alt="Grafik kontribusi GitHub Tatabiin Hairudin Ambo" width="100%" />
   
   <br clear="both">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake.svg">
+  </picture>
   <img src="./atta.svg" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
