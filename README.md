@@ -52,14 +52,14 @@
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/40c463/tatabiinhairudinambo" alt="Grafik kontribusi GitHub Tatabiin Hairudin Ambo" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
+  </picture>
   
   <br clear="both">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/tatabiinhairudinambo/tatabiinhairudinambo/output/snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/sadat-sdt/sadat-sdt/output/snake.svg" alt="Snake animation" />
   <img src="./atta.svg" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
