@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./About_me.svg?v=20261102c"
+    src="./About_me.svg?v=20261102d"
     width="970"
     alt="Tatabiin Hairudin Ambo - Full Stack Developer"
   />
@@ -36,6 +36,8 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tataambo913@gmail.com)
 &nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kiroybreak)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tatabiinhairudinambo)
 
 </div>
@@ -50,14 +52,9 @@
 
 <div align="center">
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/40c463/tatabiinhairudinambo" alt="Grafik kontribusi GitHub Tatabiin Hairudin Ambo" width="100%" />
   
   <br clear="both">
-  <img src="https://raw.githubusercontent.com/sadat-sdt/sadat-sdt/output/snake.svg" alt="Snake animation" />
   <img src="./atta.svg" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
